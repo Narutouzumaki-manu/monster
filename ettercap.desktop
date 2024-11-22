@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ettercap-pkexec
+Comment=Ettercap GUI-enabled executable
+Encoding=UTF-8
+Exec=ettercap-pkexec -G
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Kali-Package=ettercap-graphical
+Icon=ettercap
